@@ -407,6 +407,13 @@ assignments = {
       "dueDate": "2022-11-04T23:59:00",
       "link": "https://www.gradescope.com/courses/423760",
       "submitted": false
+    },
+    {
+      "title": "Lab 9",
+      "course": "CS 61C",
+      "dueDate": "2022-11-11T23:59:00",
+      "link": "https://www.gradescope.com/courses/423760",
+      "submitted": false
     }
   ],
   "EECS 106A": [
