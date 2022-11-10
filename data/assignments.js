@@ -621,6 +621,13 @@ assignments = {
       "dueDate": "2022-10-23T23:59:00",
       "link": "https://www.gradescope.com/courses/441168",
       "submitted": false
+    },
+    {
+      "title": "Lecture 9 Quiz",
+      "course": "Stat 198",
+      "dueDate": "2022-11-20T18:00:00",
+      "link": "https://www.gradescope.com/courses/441168/assignments/2427273/submissions/new",
+      "submitted": false
     }
   ]
 };
