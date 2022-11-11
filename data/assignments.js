@@ -300,6 +300,13 @@ assignments = {
       "dueDate": "2022-11-21T23:00:00",
       "link": "https://www.gradescope.com/courses/425603",
       "submitted": false
+    },
+    {
+      "title": "HW8 (Written)",
+      "course": "CS 182/282A",
+      "dueDate": "2022-11-14T23:00:00",
+      "link": "https://www.gradescope.com/courses/425603",
+      "submitted": false
     }
   ],
   "CS 61C": [
