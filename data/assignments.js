@@ -276,7 +276,7 @@ assignments = {
     {
       "title": "HW7 (Written)",
       "course": "CS 182/282A",
-      "dueDate": "2022-11-13T23:00:00",
+      "dueDate": "2022-11-14T23:00:00",
       "link": "https://www.gradescope.com/courses/425603",
       "submitted": false
     },
@@ -660,7 +660,7 @@ assignments = {
     {
       "title": "Final Project Proposal",
       "course": "Stat 198",
-      "dueDate": "2022-11-14T23:59:00",
+      "dueDate": "2022-11-15T23:59:00",
       "link": "https://www.gradescope.com/courses/441168/assignments/2433454/submissions/new",
       "submitted": false
     }
