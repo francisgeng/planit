@@ -661,7 +661,7 @@ assignments = {
       "title": "Final Project Proposal",
       "course": "Stat 198",
       "dueDate": "2022-11-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/441168/assignments/2433454/submissions/new",
+      "link": "https://www.gradescope.com/courses/441168",
       "submitted": false
     }
   ]
