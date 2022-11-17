@@ -323,13 +323,6 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "HW 9 (Code)",
-      "course": "CS 182/282A",
-      "dueDate": "2022-11-22T22:59:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
-    },
-    {
       "title": "HW 8 (Resubmission)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-30T23:00:00",
@@ -688,8 +681,8 @@ assignments = {
     {
       "title": "Final Project Proposal",
       "course": "Stat 198",
-      "dueDate": "2022-11-15T23:59:00",
-      "link": "https://www.gradescope.com/courses/441168",
+      "dueDate": "2022-11-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/441168/assignments/2433454/submissions/new",
       "submitted": false
     }
   ]
