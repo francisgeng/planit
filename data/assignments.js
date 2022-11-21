@@ -290,7 +290,7 @@ assignments = {
     {
       "title": "HW 7 (Self-Grade)",
       "course": "CS 182/282A",
-      "dueDate": "2022-11-21T13:59:00",
+      "dueDate": "2022-11-21T23:59:00",
       "link": "https://www.gradescope.com/courses/425603/assignments/2420273/submissions/148448915",
       "submitted": true
     },
