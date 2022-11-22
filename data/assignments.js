@@ -312,7 +312,7 @@ assignments = {
       "title": "HW 8 (Code)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-21T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603/assignments/2432685/submissions/150436647",
+      "link": "https://www.gradescope.com/courses/425603/assignments/2432685/submissions/150453597",
       "submitted": true
     },
     {
@@ -340,8 +340,8 @@ assignments = {
       "title": "HW 8 (Self-Grade)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-30T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2446581/submissions/150454273",
+      "submitted": true
     }
   ],
   "CS 61C": [
