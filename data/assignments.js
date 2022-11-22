@@ -305,8 +305,8 @@ assignments = {
       "title": "HW 8 (Written)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-21T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2432359/submissions/150462676",
+      "submitted": true
     },
     {
       "title": "HW 8 (Code)",
@@ -340,7 +340,7 @@ assignments = {
       "title": "HW 8 (Self-Grade)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-30T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603/assignments/2446581/submissions/150454273",
+      "link": "https://www.gradescope.com/courses/425603/assignments/2446581/submissions/150462790",
       "submitted": true
     }
   ],
@@ -475,8 +475,8 @@ assignments = {
       "title": "Lab 10",
       "course": "CS 61C",
       "dueDate": "2022-11-18T23:59:00",
-      "link": "https://www.gradescope.com/courses/423760",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/423760/assignments/2433519/submissions/150463559",
+      "submitted": true
     },
     {
       "title": "Project 4",
