@@ -319,15 +319,15 @@ assignments = {
       "title": "HW 9 (Written)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-29T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2445000/submissions/151424037",
+      "submitted": true
     },
     {
       "title": "HW 9 (Code)",
       "course": "CS 182/282A",
       "dueDate": "2022-11-29T22:59:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2446531/submissions/151422153",
+      "submitted": true
     },
     {
       "title": "HW 8 (Resubmission)",
@@ -347,8 +347,8 @@ assignments = {
       "title": "HW 9 (Self-Grade)",
       "course": "CS 182/282A",
       "dueDate": "2022-12-11T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603",
-      "submitted": false
+      "link": "https://www.gradescope.com/courses/425603/assignments/2463179/submissions/151424174",
+      "submitted": true
     },
     {
       "title": "HW 9 (Resubmission)",
