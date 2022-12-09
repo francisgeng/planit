@@ -361,7 +361,7 @@ assignments = {
       "title": "Final Project (Option 1)",
       "course": "CS 182/282A",
       "dueDate": "2022-12-10T23:00:00",
-      "link": "https://www.gradescope.com/courses/425603/assignments/2481837/submissions/153177880",
+      "link": "https://www.gradescope.com/courses/425603/assignments/2481837/submissions/153485342",
       "submitted": true
     },
     {
@@ -752,7 +752,7 @@ assignments = {
       "title": "Final Project - ipynb notebook and presentation recording link",
       "course": "Stat 198",
       "dueDate": "2022-12-08T18:00:00",
-      "link": "https://www.gradescope.com/courses/441168/assignments/2489144/submissions/new",
+      "link": "https://www.gradescope.com/courses/441168",
       "submitted": false
     }
   ]
