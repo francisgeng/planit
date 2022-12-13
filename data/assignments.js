@@ -542,6 +542,176 @@ assignments = {
       "submitted": false
     }
   ],
+  "Data 140": [
+    {
+      "title": "Homework 01",
+      "course": "Data 140",
+      "dueDate": "2022-08-29T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Lab 01",
+      "course": "Data 140",
+      "dueDate": "2022-09-06T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 02",
+      "course": "Data 140",
+      "dueDate": "2022-09-06T12:00:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 03",
+      "course": "Data 140",
+      "dueDate": "2022-09-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Lab 02A",
+      "course": "Data 140",
+      "dueDate": "2022-09-12T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 04",
+      "course": "Data 140",
+      "dueDate": "2022-09-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Lab 02B",
+      "course": "Data 140",
+      "dueDate": "2022-09-19T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 05",
+      "course": "Data 140",
+      "dueDate": "2022-09-26T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 06",
+      "course": "Data 140",
+      "dueDate": "2022-10-03T12:00:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Lab 03",
+      "course": "Data 140",
+      "dueDate": "2022-10-03T12:00:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 07",
+      "course": "Data 140",
+      "dueDate": "2022-10-10T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 08",
+      "course": "Data 140",
+      "dueDate": "2022-10-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Lab 04",
+      "course": "Data 140",
+      "dueDate": "2022-10-17T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 09",
+      "course": "Data 140",
+      "dueDate": "2022-10-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Lab 05A",
+      "course": "Data 140",
+      "dueDate": "2022-10-24T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Lab 05B",
+      "course": "Data 140",
+      "dueDate": "2022-10-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 10",
+      "course": "Data 140",
+      "dueDate": "2022-10-31T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Lab 06A",
+      "course": "Data 140",
+      "dueDate": "2022-11-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 11",
+      "course": "Data 140",
+      "dueDate": "2022-11-07T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Lab 06B",
+      "course": "Data 140",
+      "dueDate": "2022-11-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 12",
+      "course": "Data 140",
+      "dueDate": "2022-11-14T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 13",
+      "course": "Data 140",
+      "dueDate": "2022-11-21T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 14",
+      "course": "Data 140",
+      "dueDate": "2022-11-28T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    },
+    {
+      "title": "Homework 15",
+      "course": "Data 140",
+      "dueDate": "2022-12-05T23:59:00",
+      "link": "https://www.gradescope.com/courses/419131",
+      "submitted": false
+    }
+  ],
   "EECS 106A": [
     {
       "title": "Syllabus Quiz (HW0)",
