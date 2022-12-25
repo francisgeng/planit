@@ -197,7 +197,7 @@ assignments = {
       "submitted": true
     },
     {
-      "title": "HW 5 (Code)  ",
+      "title": "HW 5 (Code)",
       "course": "CS 182/282A",
       "dueDate": "2022-10-22T23:00:00",
       "link": "https://www.gradescope.com/courses/425603/assignments/2326822/submissions/143104432",
@@ -225,7 +225,7 @@ assignments = {
       "submitted": false
     },
     {
-      "title": "HW 5 (Resubmission)  ",
+      "title": "HW 5 (Resubmission)",
       "course": "CS 182/282A",
       "dueDate": "2022-10-30T23:00:00",
       "link": "https://www.gradescope.com/courses/425603",
